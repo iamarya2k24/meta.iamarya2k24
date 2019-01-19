@@ -9,4 +9,4 @@ Single Page with links to my online profiles.
 <kbd><img src='/assets/favicons/favicon-196x196.png'/></kbd>
 
 # License:
-The site is designe by HTML5UP an licensed at [CC-BY-3.0](https://html5up.net/license) and Relicensed by me as [CC-BY-4.0](/LICENSE)
+The site is designed by HTML5UP and licensed as [CC-BY-3.0](https://html5up.net/license), and Relicensed by me as [CC-BY-4.0](/LICENSE)
