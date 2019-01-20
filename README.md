@@ -1,6 +1,6 @@
 # ahrefs.draffft.in
 
-[![Issues](https://img.shields.io/github/issues/Navneet-Suresh/ahref.ddraffft.in.svg?style=flat-square)](https://github.com/Navneet-Suresh/navneet-suresh.github.io/issues/?utm_source=Links-Website&utm_medium=badge&utm_campaign=One-bio-link) [![License](https://img.shields.io/github/license/Navneet-Suresh/ahref.ddraffft.in.svg?style=flat-square)](https://github.com/Navneet-Suresh/navneet-suresh.github.io/blob/master/LICENSE.md?utm_source=Links-Website&utm_medium=badge&utm_campaign=One-bio-link)
+[![Issues](https://img.shields.io/github/issues/Navneet-Suresh/ahref.ddraffft.in.svg?style=flat-square)](https://github.com/Navneet-Suresh/ahref.ddraffft.in/issues?utm_source=Links-Website&utm_medium=badge&utm_campaign=One-bio-link) [![License](https://img.shields.io/github/license/Navneet-Suresh/ahref.ddraffft.in.svg?style=flat-square)](https://github.com/Navneet-Suresh/ahref.ddraffft.in/blob/master/LICENSE?utm_source=Links-Website&utm_medium=badge&utm_campaign=One-bio-link)
 
 <h2 id='Repo-Description'> Description:</h2>
 
@@ -23,4 +23,5 @@ it's hosted by GitHub for __free__.
 6. And that's it, your website is set. To view, go to [ahrefs.draffft.in](ahrefs.draffft.in) (or whatever you have in the CNAME file) and if you don't have one, you can go to [[yourusername].github.io/photography](http://yourusername.github.io/photography)
 
 # License:
+
 The site is designed by [HTML5UP](https://html5up.net) and licensed as [CC-BY-3.0](https://html5up.net/license), and Relicensed by me as [CC-BY-4.0](/LICENSE)
