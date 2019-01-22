@@ -8,6 +8,10 @@ Single Page with links to my online profiles.
 
 <kbd><img src='/assets/favicons/favicon-196x196.png'/></kbd>
 
+<h2 id='demo-image'>Screenshot</h2>
+
+<kbd><img src='/assets/media/ahref.ddraffft.in_.png'/></kbd>
+
 <h2 id='quick-start'>Quick Start</h2>
 
 You can get started with your own static page within minutes, with this you need not pay a single dime to host your website as
