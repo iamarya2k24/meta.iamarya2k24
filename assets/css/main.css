@@ -173,6 +173,8 @@
 	#bg {
 
 		background: linear-gradient(270deg, #feac5e, #c779d0, #4bc0c8);
+		background-size: 2250px auto;
+		width: 6750px;
 		-webkit-animation: bgcolors 30s ease infinite;
 		-moz-animation: bgcolors 30s ease infinite;
 		animation: bgcolors 30s ease infinite;
@@ -193,11 +195,6 @@
     100%{background-position:0% 50%}
 		}
 
-	}
-
-	#bg {
-		background-size: 2250px auto;
-		width: 6750px;
 	}
 
 /* Overlay */
