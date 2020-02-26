@@ -6,8 +6,6 @@
 
 Single Page with links to my online profiles.
 
-<kbd><img src='/assets/favicons/favicon-196x196.png'/></kbd>
-
 <h2 id='demo-image'>Screenshot</h2>
 
 <kbd><img src='/assets/media/ahref.ddraffft.in_.png'/></kbd>
