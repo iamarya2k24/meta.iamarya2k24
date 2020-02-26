@@ -22,7 +22,7 @@ it's hosted by GitHub for __free__.
 3. Make the required changes in the index.html.
 4. Add your own custom domain in `CNAME` file or just remove the file if you don't own a domain and use the default domain that github provides ([yourusername].github.io).
 5. Optionally enable HTTPS.
-6. And that's it, your website is set. To view, go to [ahrefs.draffft.in](ahrefs.draffft.in) (or whatever you have in the CNAME file) and if you don't have one, you can go to [[yourusername].github.io/photography](http://yourusername.github.io/photography)
+6. And that's it, your website is set. To view, go to [the link](https://ahref.n4vn33t.com) (or whatever you have in the CNAME file) and if you don't have one, you can go to [[yourusername].github.io/photography](http://yourusername.github.io/photography)
 
 # License:
 
