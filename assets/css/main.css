@@ -185,8 +185,10 @@
 		transform: translate3d(0,0,0);
 	/* Set your background with this */
 
-		background: #f00462 url("images/background-ahref-draf-try.jpg") bottom center;
-		background-repeat: repeat-x;
+	/*	background: #f00462 url("images/background-ahref-draf-try.jpg") bottom center; */
+	    background: rgb(2,0,36);
+		background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 44%, rgba(0,212,255,1) 100%);
+	/*	background-repeat: repeat-x; */
 		height: 100%;
 		left: 0;
 		opacity: 1;
