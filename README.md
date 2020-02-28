@@ -8,7 +8,7 @@ Single Page with links to my online profiles.
 
 <h2 id='demo-image'>Screenshot</h2>
 
-<kbd><img src='/assets/media/image.png'/></kbd>
+<kbd><img src='/assets/media/screenshot.png'/></kbd>
 
 <h2 id='quick-start'>Quick Start</h2>
 
