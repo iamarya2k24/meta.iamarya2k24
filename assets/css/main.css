@@ -115,7 +115,7 @@
 
 /* Wrapper */
 
-	@-moz-keyframes wrapper {
+/*	@-moz-keyframes wrapper {
 		0% {
 			opacity: 0;
 		}
@@ -154,8 +154,8 @@
 			opacity: 1;
 		}
 	}
-
-	#wrapper {
+*/
+/*	#wrapper {
 		-moz-animation: wrapper 3s forwards;
 		-webkit-animation: wrapper 3s forwards;
 		-ms-animation: wrapper 3s forwards;
@@ -167,10 +167,23 @@
 		top: 0;
 		width: 100%;
 	}
-
+*/
 /* BG */
 
 	#bg {
+	/*	-moz-animation: bg 60s linear infinite;
+		-webkit-animation: bg 60s linear infinite;
+		-ms-animation: bg 60s linear infinite;
+		animation: bg 60s linear infinite;
+		-moz-backface-visibility: hidden;
+		-webkit-backface-visibility: hidden;
+		-ms-backface-visibility: hidden;
+		backface-visibility: hidden;
+		-moz-transform: translate3d(0,0,0);
+		-webkit-transform: translate3d(0,0,0);
+		-ms-transform: translate3d(0,0,0);
+		transform: translate3d(0,0,0);
+	*/	
 	/* Set your background with this */
 
 	/*	background: #f00462 url("images/background-ahref-draf-try.jpg") bottom center; */
@@ -184,7 +197,7 @@
 		top: 0;
 	}
 
-	@-moz-keyframes bg {
+	/*@-moz-keyframes bg {
 		0% {
 			-moz-transform: translate3d(0,0,0);
 			-webkit-transform: translate3d(0,0,0);
@@ -252,7 +265,8 @@
 		background-size: 2250px auto;
 		width: 6750px;
 	}
-
+   */
+   
 /* Overlay */
 /* Disable Overlay
 
