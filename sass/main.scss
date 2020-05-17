@@ -219,7 +219,7 @@
 				top: 0;
 				width: _size(nav-icon-wrapper);
 
-				@for $x from 1 through 10 {
+				@for $x from 1 through 12 {
 					&:nth-child(#{$x}) {
 						@include vendor('animation-delay', ($delay-nav-icons + ($x * $delay-nav-icon)) + '');
 					}
